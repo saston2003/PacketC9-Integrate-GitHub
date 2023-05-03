@@ -1,3 +1,5 @@
+[![Build Status](http://devopsserver201/DefaultCollection/Belgium/_apis/build/status/Belgium-ASP.NET%20Core-CI?branchName=main)](http://devopsserver201/DefaultCollection/Belgium/_build/latest?definitionId=20&branchName=main)
+
 # Introduction 
 This is from chapter 9 of the packet book z400
 
