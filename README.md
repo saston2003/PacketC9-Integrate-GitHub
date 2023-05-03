@@ -22,3 +22,5 @@ If you want to learn more about creating good readme files then refer the follow
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
 
 HelloYou Fool
+
+[![Build Status](http://devopsserver201/DefaultCollection/Belgium/_apis/build/status/Belgium-ASP.NET%20Core-CI?branchName=main)](http://devopsserver201/DefaultCollection/Belgium/_build/latest?definitionId=20&branchName=main)
